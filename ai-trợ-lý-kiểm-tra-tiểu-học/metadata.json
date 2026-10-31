@@ -1,0 +1,6 @@
+{
+  "name": "APP TẠO ĐỀ, MA TRẬN VÀ ĐỀ KIỂM TRA TIỂU HỌC",
+  "description": "Hệ thống chuyên gia hỗ trợ giáo viên tiểu học xây dựng danh mục bài học, ma trận, bản đặc tả chuẩn GDPT 2018 bộ sách Kết nối tri thức (Lớp 1-5), sinh 10 đề kiểm tra khác nhau kèm đáp án và xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
